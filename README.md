@@ -5,9 +5,6 @@
 ![screencapture-localhost-8081-job-details-gy3qloSG0uhwC-WKAAAAAA-2023-10-31-13_18_08](https://github.com/mohabelgendyy/React_native_jobsApp/assets/141507408/358d5115-ebaa-4aa4-a5a6-08f0b113d9c6)
 
 
-# Expo Router Example
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
 ## 🚀 How to use
 
